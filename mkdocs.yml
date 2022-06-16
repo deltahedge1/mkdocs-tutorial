@@ -3,7 +3,7 @@ site_name: Calculation Docs
 theme:
   name: "material"
   favicon: img/favicon.png
-  logo: img/kpmg-logo-2.jpg
+  logo: img/KPMG-logo-2.jpg
 
 plugins:
   - search
