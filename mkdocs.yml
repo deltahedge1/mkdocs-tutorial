@@ -1,0 +1,19 @@
+site_name: Calculation Docs
+
+theme:
+  name: "material"
+  favicon: img/favicon.png
+  logo: img/kpmg-logo-2.jpg
+
+plugins:
+  - search
+  - mkdocstrings
+
+nav:
+  - Calculation Docs: index.md
+  - Tutorials: tutorial.md
+  - How-To Guides: how-to-guides.md
+  - References: 
+    - api: reference.md
+    - example: example.md
+  - Explaination: explaination.md
