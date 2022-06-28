@@ -11,7 +11,8 @@ plugins:
 
 nav:
   - Calculation Docs: index.md
-  - Tutorials: tutorial.md
+  - Readme: readme.md
+  - Tutorials: tutorials.md
   - How-To Guides: how-to-guides.md
   - References: 
     - api: reference.md
