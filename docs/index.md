@@ -24,8 +24,6 @@ your use case by looking at the different pages.
 
 ## Project Overview
 
-::: calculator.__init__
-
 ## Acknowledgements
 
 I want to thank my house plants for providing me with

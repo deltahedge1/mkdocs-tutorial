@@ -2,8 +2,8 @@ site_name: Calculation Docs
 
 theme:
   name: "material"
-  favicon: img/favicon.png
-  logo: img/kpmg-logo-2.jpg
+  #favicon: img/favicon.png
+  #logo: img/kpmg-logo-2.jpg
 
 plugins:
   - search
@@ -11,7 +11,6 @@ plugins:
 
 nav:
   - Calculation Docs: index.md
-  - Readme: readme.md
   - Tutorials: tutorials.md
   - How-To Guides: how-to-guides.md
   - References: 
